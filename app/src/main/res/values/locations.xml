@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cary_east">Cary East</string>
+    <string name="cary_west">Cary West</string>
+    <string name="earhart">Earhart</string>
+    <string name="harrison">Harrison</string>
+    <string name="hawkins">Hawkins</string>
+    <string name="hillenbrand">Hillenbrand</string>
+    <string name="mccutcheon">McCutcheon</string>
+    <string name="meredith_nw">Meredith NW</string>
+    <string name="meredith_se">Meredith SE</string>
+    <string name="owen">Owen</string>
+    <string name="shreve">Shreve</string>
+    <string name="tarkington">Tarkington</string>
+    <string name="third_street">Third St. Suites</string>
+    <string name="wiley">Wiley</string>
+    <string name="duhme">Duhme</string>
+    <string name="warren">Warren</string>
+
+    <string-array name="locations">
+        <item>@string/cary_east</item>
+        <item>@string/cary_west</item>
+        <item>@string/earhart</item>
+        <item>@string/harrison</item>
+        <item>@string/hawkins</item>
+        <item>@string/hillenbrand</item>
+        <item>@string/mccutcheon</item>
+        <item>@string/meredith_nw</item>
+        <item>@string/meredith_se</item>
+        <item>@string/owen</item>
+        <item>@string/shreve</item>
+        <item>@string/tarkington</item>
+        <item>@string/third_street</item>
+        <item>@string/wiley</item>
+        <item>@string/duhme</item>
+        <item>@string/warren</item>
+    </string-array>
+</resources>
